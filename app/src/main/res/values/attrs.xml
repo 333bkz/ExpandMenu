@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ExpandMenu">
+        <attr name="menu_icon" format="reference" />
+        <attr name="menu_text" format="string" />
+        <attr name="menu_textSize" format="dimension" />
+        <attr name="menu_textColor" format="color" />
+        <attr name="menu_color" format="color" />
+        <attr name="menu_radius" format="dimension" />
+        <attr name="menu_small_radius" format="dimension" />
+        <attr name="menu_expand_duration" format="integer" />
+        <attr name="menu_rock_duration" format="integer" />
+        <attr name="menu_auto" format="boolean" />
+    </declare-styleable>
+</resources>
